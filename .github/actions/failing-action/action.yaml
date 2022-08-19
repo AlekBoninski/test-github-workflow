@@ -1,0 +1,6 @@
+name: 'I shall not pass'
+description: 'I am a failed action'
+author: 'alek-b'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

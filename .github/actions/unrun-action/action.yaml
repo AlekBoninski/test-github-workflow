@@ -1,0 +1,6 @@
+name: 'Gandaaalf'
+description: 'I am an unrun action'
+author: 'alek-b'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
